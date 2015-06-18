@@ -41,6 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+<<<<<<< HEAD
 
 # ---------------[ Unity generated ]------------------ #
 Temp/
@@ -70,3 +71,5 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.db
+=======
+>>>>>>> 8701bb0aa3923e6b6c993dd17c0aea927de6f65e
